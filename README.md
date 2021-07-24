@@ -4,7 +4,6 @@ About Me
 - 💻 I’m currently working as a full-time freelancer on Upwork, helping many startups and clients in improving the quality of their products - Prior to that, I worked as a freelance Frontend Engineer, so you can think of me as the guy who switched from development to testing
 - 💡  Many of the projects I've worked on as a freelancer have been client-based, so they're private, However I intend to concentrate more on side projects
 - 📖 In my free time, I read books related to business and investing
-- ⚡ Fun fact: sometimes, I refer to myself as the Automator
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/mohamed-abouelsoud/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:dev.mohamedyunus@gmail.com)
