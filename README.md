@@ -1,8 +1,8 @@
 ### Hi there👋🏻, I'm Mohamed AbouElsoud
 ---
 #### About Me
-- 💻 An analytical SW QC engineer (Manual, API, DB, Web Accessibility, Automation) with 1+ years of experience working with multinational teams and clients - Prior to that, I worked as a freelance Frontend Engineer, so you can think of me as the guy who switched from development to testing
-- 💡 Many of the automation projects I've worked on have been client-based and so private, but I want to focus more on open-source projects
+- 💻 An analytical SW QC engineer (Manual, API, DB, Web Accessibility, Automation) with 2+ years of experience working with multinational teams and clients - Prior to that, I worked as a freelance Frontend Engineer, so you can think of me as the guy who switched from development to testing
+- 💡 Many of the automation projects I've worked on have been client-based and private, but I want to focus more on open-source projects
 - 📖 I enjoy reading books about business and investing in my spare time
 
 #### Current Interests
